@@ -2,7 +2,7 @@ server:
   port: 9090
 
 
-spring:
+#spring:
   cloud:
     gateway:
       routes:
